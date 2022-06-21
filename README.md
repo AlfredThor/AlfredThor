@@ -9,6 +9,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![example](https://img.shields.io/badge/example-v1.0-red.svg)
+
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Hellathor&show_icons=true&theme=dracula"/>
 </div>
