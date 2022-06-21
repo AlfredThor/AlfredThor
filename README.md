@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ERP
 - 🤔 I’m looking for help with MRP
 - 💬 Ask me about Persion
-- 📫 How to reach me: https://img.shields.io/badge/Follow-Hella_Thor-lightgrey?logo=twitter&style=social
+- 📫 How to reach me: ![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FHella_Thor)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
