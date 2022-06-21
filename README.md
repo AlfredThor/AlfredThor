@@ -139,4 +139,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
+## Visitor
 
+<div align="center">
+    <img  src="https://visitor-badge.glitch.me/badge?page_id=Hellathor" />
+</div>
+
+<br/>
