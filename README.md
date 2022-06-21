@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Metrics](https://metrics.lecoq.io/Hellathor?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hellathor)](https://git.io/streak-stats)
