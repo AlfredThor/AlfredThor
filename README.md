@@ -114,6 +114,12 @@
 
 <br/>  
 
+## Github info
+<div align="center">
+	<img  src="https://metrics.lecoq.io/Hellathor?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai" />
+</div>
+
+<br/>
 
 ## Glad to see you here! 
 <!-- BLOG-POST-LIST:START -->  
