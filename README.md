@@ -11,7 +11,7 @@
 
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Hellathor"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=Hellathor&show_icons=true&theme=dracula"/>
 </div>
 
 <div align="center">
