@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-	<img  src="[https://github-profile-trophy.vercel.app/?username=sun0225SUN](https://metrics.lecoq.io/Hellathor?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)" />
+	<img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" />
 </div>
 
 <div align="center">
