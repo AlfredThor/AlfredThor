@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Metrics](https://metrics.lecoq.io/Hellathor?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hellathor)](https://git.io/streak-stats)
+<div align="center">
+	<img  src="[https://github-profile-trophy.vercel.app/?username=sun0225SUN](https://metrics.lecoq.io/Hellathor?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)" />
+</div>
+
+<div align="center">
+	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Hellathor"/>
+</div>
