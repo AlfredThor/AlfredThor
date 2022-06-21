@@ -9,9 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Twitter URL](https://img.shields.io/twitter/url?logoColor=black&style=social&url=https%3A%2F%2Ftwitter.com%2FHella_Thor)
-
-![example](https://img.shields.io/badge/example-v1.0-red.svg)
 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Hellathor&show_icons=true&theme=dracula"/>
