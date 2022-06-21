@@ -5,9 +5,11 @@
 - 👯 I’m looking to collaborate on ERP
 - 🤔 I’m looking for help with MRP
 - 💬 Ask me about Persion
-- 📫 How to reach me: ![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FHella_Thor)
+- 📫 How to reach me: ![Twitter URL](https://img.shields.io/twitter/url?logoColor=black&style=social&url=https%3A%2F%2Ftwitter.com%2FHella_Thor)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Twitter URL](https://img.shields.io/twitter/url?logoColor=black&style=social&url=https%3A%2F%2Ftwitter.com%2FHella_Thor)
 
 ![example](https://img.shields.io/badge/example-v1.0-red.svg)
 
