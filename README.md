@@ -1,17 +1,13 @@
 ### Hi there 👋
 
-<div align="center">
-	
-	- 🔭 I’m currently working on Python Engineer
-	- 🌱 I’m currently learning Docker
-	- 👯 I’m looking to collaborate on ERP
-	- 🤔 I’m looking for help with MRP
-	- 💬 Ask me about Persion
-	- 📫 How to reach me: ![Twitter URL](https://img.shields.io/twitter/url?logoColor=black&style=social&url=https%3A%2F%2Ftwitter.com%2FHella_Thor)
-	- 😄 Pronouns: ...
-	- ⚡ Fun fact: ...
-	
-</div>
+- 🔭 I’m currently working on Python Engineer
+- 🌱 I’m currently learning Docker
+- 👯 I’m looking to collaborate on ERP
+- 🤔 I’m looking for help with MRP
+- 💬 Ask me about Persion
+- 📫 How to reach me: ![Twitter URL](https://img.shields.io/twitter/url?logoColor=black&style=social&url=https%3A%2F%2Ftwitter.com%2FHella_Thor)
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 	
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=Hellathor&show_icons=true&theme=dracula"/>
