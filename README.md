@@ -132,7 +132,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Hellathor&theme=xcode" />
