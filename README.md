@@ -10,14 +10,14 @@
 - ⚡ Fun fact: ...
 
 
-<div align="center">
+<div align="right">
 	<img src="https://github-readme-stats.vercel.app/api?username=Hellathor&show_icons=true&theme=dracula"/>
 </div>
 
-<div align="center">
+<div align="left">
 	<img  src="https://metrics.lecoq.io/Hellathor?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai" />
 </div>
 
-<div align="center">
+<div align="right">
 	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Hellathor"/>
 </div>
