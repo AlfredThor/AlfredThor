@@ -9,6 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![github](https://github.com/simple-icons/simple-icons)
 
 <div align="right">
 	<img src="https://github-readme-stats.vercel.app/api?username=Hellathor&show_icons=true&theme=dracula"/>
