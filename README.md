@@ -24,3 +24,7 @@
 <div align="center">
     <img  src="https://visitor-badge.glitch.me/badge?page_id=Hellathor" />
 </div>
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Hellathor&theme=xcode" />
+</div>
