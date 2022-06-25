@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Hellathor/Hellathor/blob/main/header.png" align="center" style="width: 100%" />
+<img src="https://github.com/Hellathor/Hellathor/blob/main/image.png" align="center" style="width: 100%" />
 </div>  
   
 
