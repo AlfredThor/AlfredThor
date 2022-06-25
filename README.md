@@ -15,7 +15,7 @@
 - ❓ Ask me some questions about ERP  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I'm a fighter pilot!  
   
 
 <br/>  
