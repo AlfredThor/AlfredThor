@@ -6,13 +6,13 @@
 ### <div align="center">I'm Alfred, a full-time Python developer  👨‍💻 working remotely since 2018 🚀</div>  
 
 
-- 🔭 I’m currently working on [ERP](https://github.com/Hellathor)  
+- 🔭 I’m currently working on [ERP](https://github.com/AlfredThor)  
   
 
-- 🌱 I’m currently learning Docker and Kubernetes  
+- 🌱 I’m currently learning Vue and Docker  
   
 
-- ❓ Ask me some questions about ERP  
+- ❓ I have a unique perspective on architecture analysis, and you can ask me questions about it  
   
 
 - ⚡ Fun fact: I'm a fighter pilot!  
