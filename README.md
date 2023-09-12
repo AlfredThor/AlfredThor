@@ -3,8 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Hella, a full-time Python developer  👨‍💻 working remotely since 2018 🚀</div>  
-  
+### <div align="center">I'm Alfred, a full-time Python developer  👨‍💻 working remotely since 2018 🚀</div>  
+
 
 - 🔭 I’m currently working on [ERP](https://github.com/Hellathor)  
   
