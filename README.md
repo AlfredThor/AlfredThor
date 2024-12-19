@@ -82,7 +82,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/Hellathor" target="_blank">
+<a href="https://github.com/AlfredThor" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/Hella_Thor" target="_blank">
@@ -110,13 +110,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hellathor&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlfredThor&show_icons=true&count_private=true&hide_border=true&theme=dracula" align="center" /></div>  
 
 <br/>  
 
 ## Github info
 <div align="center">
-	<img  src="https://metrics.lecoq.io/Hellathor?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai" />
+	<img  src="https://metrics.lecoq.io/AlfredThor?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai" />
 </div>
 
 <br/>
