@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Hellathor/Hellathor/blob/main/image.png" align="center" style="width: 100%" />
+<img src="https://github.com/AlfredThor/AlfredThor/blob/main/header.png" align="center" style="width: 100%" />
 </div>  
   
 
@@ -134,7 +134,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 <div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Hellathor&theme=xcode" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=AlfredThor&theme=xcode" />
 </div>
 
 <br/>  
@@ -142,7 +142,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 ## Visitor
 
 <div align="center">
-    <img  src="https://visitor-badge.glitch.me/badge?page_id=Hellathor" />
+    <img  src="https://visitor-badge.glitch.me/badge?page_id=AlfredThor" />
 </div>
 
 <br/>
